@@ -1,4 +1,4 @@
-#
+# This is my first git commit
 # Cookbook Name:: host
 # Recipe:: default
 #
